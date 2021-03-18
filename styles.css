@@ -1,0 +1,25 @@
+html{   
+   background-image: linear-gradient(to right,blue,green,#ff2121);
+   font-family: "papyrus";
+    
+}
+nav a{
+    color:white;
+    font-size:90px;
+      text-decoration: none;
+     word-spacing: 30px;
+    
+  
+    
+}
+nav{
+   grid-template-columns: 10% 1fr 10%;
+    background-color:black;
+    
+}
+nav a:hover{
+    color:#ff2121;
+}
+grid{
+    
+}
